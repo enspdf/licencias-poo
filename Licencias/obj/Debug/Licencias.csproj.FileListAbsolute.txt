@@ -1,0 +1,9 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Licencias\Licencias\bin\Debug\Licencias.exe.config
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Licencias\Licencias\obj\Debug\Licencias.csprojResolveAssemblyReference.cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Licencias\Licencias\obj\Debug\Licencias.Form1.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Licencias\Licencias\obj\Debug\Licencias.Properties.Resources.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Licencias\Licencias\obj\Debug\Licencias.csproj.GenerateResource.Cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Licencias\Licencias\bin\Debug\Licencias.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Licencias\Licencias\bin\Debug\Licencias.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Licencias\Licencias\obj\Debug\Licencias.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Licencias\Licencias\obj\Debug\Licencias.pdb
